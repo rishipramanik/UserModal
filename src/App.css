@@ -1,0 +1,11 @@
+.root {
+  width: 40vh;
+  margin: 15vh 30vh;
+  transition: transform 0.2s;
+}
+.root:hover {
+  transform: scale(1.5);
+}
+body {
+  background-color: darkslategrey;
+}
